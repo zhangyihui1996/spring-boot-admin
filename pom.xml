@@ -167,6 +167,7 @@
                 </property>
             </activation>
             <build>
+                <defaultGoal>compile</defaultGoal>
                 <plugins>
                     <plugin>
                         <groupId>org.jacoco</groupId>
